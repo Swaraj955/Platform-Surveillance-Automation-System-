@@ -6,7 +6,7 @@ This Python automation project continuously monitors CPU, RAM, Disk, Network and
 The generated report is saved as a log file and automatically emailed to the user.
 
 Features
-✔ CPU Monitoring ✔ RAM Monitoring ✔ Disk Monitoring ✔ Network Monitoring ✔ Running Process Monitoring ✔ Automatic Log Creation ✔ Automatic Email Notification ✔ Periodic Scheduling.
+~ CPU Monitoring ~ RAM Monitoring ~ Disk Monitoring ~ Network Monitoring ~ Running Process Monitoring ~ Automatic Log Creation ~ Automatic Email Notification ~ Periodic Scheduling.
 
 Technologies
 Python psutil schedule SMTP OS Module
